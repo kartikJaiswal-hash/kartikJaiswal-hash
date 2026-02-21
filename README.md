@@ -28,7 +28,7 @@ I'm a passionate **[Student]** . I love tackling complex problems, learning new 
 ## Get in Touch 📬
 
 
-- ![LinkedIn](https://www.linkedin.com/in/kartik-jaiswal-b02866348/)
+- LinkedIn  ![] (https://www.linkedin.com/in/kartik-jaiswal-b02866348/)
 
 
 
