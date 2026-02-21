@@ -1,7 +1,7 @@
 
 # Hi there, I'm [Kartik]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](c:\Users\Sunil Jaiswal\OneDrive\사진\Screenshots\Screenshot 2026-02-21 191156.png)
 
 ## About Me 🚀
 
